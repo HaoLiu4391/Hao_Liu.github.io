@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Use applied science, not as the end to which human beings are to be made the means, but as the means to producing a race of free individuals,"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
