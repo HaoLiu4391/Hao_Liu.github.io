@@ -12,7 +12,9 @@ redirect_from:
 
 This is the homepage of Hao Liu (刘好), a junior undergraduate from Tsinghua University, majoring computer science. The ONLY & ULTIMATE goal for my research is to understand how brain works and what is consciousness. My research interests cover a wide range of fields related to Artificial Intelligence and Deep Learning, including Computer Vision, Natural Language Processing, Reinforcement Learning. I'm also tring to explore more on Neuroscience and Psychology, including fields like Spiking Neural Networks, Consciousness Modeling and so on. Now I'm focusing on Multi-Agent Reinforcement Learning with (Natural Language) Communicaiton.
 
-I conduct scientific research from a humanistic perspective and through methods of simulation. I do not write papers only for write papers.
+I conduct scientific research from a humanistic perspective and through methods of simulation.
+
+"惟此独立之精神，自由之思想，历千万祀，与天壤而同久，共三光而永光。"
 
 A data-driven personal website
 ======
