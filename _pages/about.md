@@ -1,6 +1,8 @@
 ---
 permalink: /
-title: "Use applied science, not as the end to which human beings are to be made the means, but as the means to producing a race of free individuals,"
+title: "Use applied science, 
+        Not as the end to which human beings are to be made the means, 
+        But as the means to producing a race of free individuals."
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +10,9 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+This is the homepage of Hao Liu (刘好), a junior undergraduate from Tsinghua University, majoring computer science. The ONLY & ULTIMATE goal for my research is to understand how brain works and what is consciousness. My research interests cover a wide range of fields related to Artificial Intelligence and Deep Learning, including Computer Vision, Natural Language Processing, Reinforcement Learning. I'm also tring to explore more on Neuroscience and Psychology, including fields like Spiking Neural Networks, Consciousness Modeling and so on. Now I'm focusing on Multi-Agent Reinforcement Learning with (Natural Language) Communicaiton.
+
+I conduct scientific research from a humanistic perspective and through methods of simulation. I do not write papers only for write papers.
 
 A data-driven personal website
 ======
