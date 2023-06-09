@@ -1,8 +1,8 @@
 ---
 permalink: /
-title: "Use applied science, 
+title: " "Use applied science, 
         Not as the end to which human beings are to be made the means, 
-        But as the means to producing a race of free individuals."
+        But as the means to producing a race of free individuals." "
 excerpt: "About me"
 author_profile: true
 redirect_from: 
