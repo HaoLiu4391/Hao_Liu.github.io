@@ -4,8 +4,7 @@ title: " <font color=Blue>\"The true beauty is that beauty can show its vivid ap
 excerpt: "My Gallery"
 author_profile: false
 redirect_from: 
-  - /gallery/
-  - /gallery.html
+  - /gallery
 ---
   
 {% include base_path %}
