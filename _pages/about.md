@@ -37,11 +37,11 @@ Research & Learning Background
 
 * Sophomore year (2021-2022), <br />I built a finetuned QA model using database querying under Prof. Minlie Huang's guidence.
                               <br />I built a Chinese stock market prediction large model during my SRT project, working with Penghan Wang, Qingchen Liu and under Prof. Maosong Sun's guidence.
-                              <br />I built a 3D diffusion model using a self-defined transformer structure on generating Protein structure, before [this](https://arxiv.org/pdf/2209.15611.pdf) came out.
+                              <br />I built a 3D diffusion model using a self-defined transformer structure on generating Protein structure using [sidechain dataset](https://pypi.org/project/sidechainnet/), before [this](https://arxiv.org/pdf/2209.15611.pdf) came out.
                               <br />I also explored other areas such as: 
                                                                    <br />- image super resolution (during summer 2022, guided by Menghao Guo)
                                                                    <br /> - PairWise Learning and Meta Learning (during summer 2022, guided by Prof. Zhiting Hu)
-                                                                   <br /> - Self-Supervised learning in Computer Vision (MIM and Comparison Learning, inspired Kaiming and Lecun's work)
+                                                                   <br /> - Self-Supervised learning in Computer Vision (MIM and Comparison Learning etc., inspired Kaiming and Lecun's work)
                                                                    <br /> - Conscious Modelling (Global Workspace Theory etc. , inspired by M.Blum and Bengio's work)
                                                                  
 * Junior year (2021-2022), Now I'm currently doing project's related to Multi-Agent Language Emergence and Communication at BIGAI and I'll be at MIT Brain & Cognition Department doing similar topic this summer.
@@ -49,3 +49,8 @@ Research & Learning Background
 More Info 
 ======
 My hobbies include Travelling, Mountain Hiking and Photography.  :)  
+        
+Contact
+======
+Email: hao_liu(at)mit.edu 
+Wechat: Jeffery0101010101
