@@ -35,10 +35,11 @@ Research & Learning Background
 
 * Freshman year (2020-2021), I was at Prof. Minlie Huang's CoAI group, learning and experimenting LLMs and prompt learning.
 
-* Sophomore year (2021-2022), I built a finetuned QA model using database querying under Prof. Minlie Huang's guidence.
+* Sophomore year (2021-2022), <br />I built a finetuned QA model using database querying under Prof. Minlie Huang's guidence.
                               <br />I built a Chinese stock market prediction large model during my SRT project, working with Penghang Wang and under Prof. Maosong Sun's guidence.
                               <br />I built a 3D diffusion model using a self-defined transformer structure on generating Protein structure, before [this](https://arxiv.org/pdf/2209.15611.pdf) came out.
-                              <br />I also explored other areas such as: - image super resolution (during summer 2022, guided by Menghao Guo)
+                              <br />I also explored other areas such as: 
+                                                                   <br />- image super resolution (during summer 2022, guided by Menghao Guo)
                                                                    <br /> - PairWise Learning and Meta Learning (during summer 2022, guided by Prof. Zhiting Hu)
                                                                    <br /> - Self-Supervised learning in Computer Vision (MIM and Comparison Learning, inspired Kaiming and Lecun's work)
                                                                    <br /> - Conscious Modelling (Global Workspace Theory etc. , inspired by M.Blum and Bengio's work)
