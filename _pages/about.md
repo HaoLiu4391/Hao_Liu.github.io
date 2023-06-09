@@ -36,12 +36,12 @@ Research & Learning Background
 * Freshman year (2020-2021), I was at Prof. Minlie Huang's CoAI group, learning and experimenting LLMs and prompt learning.
 
 * Sophomore year (2021-2022), I built a finetuned QA model using database querying under Prof. Minlie Huang's guidence.
-                              I built a Chinese stock market prediction large model during my SRT project, working with Penghang Wang and under Prof. Maosong Sun's guidence.
-                              I built a 3D diffusion model using a self-defined transformer structure on generating Protein structure, before [this](https://arxiv.org/pdf/2209.15611.pdf) came out.
-                              I also explored other areas such as: - image super resolution (during summer 2022, guided by Menghao Guo)
-                                                                   - PairWise Learning and Meta Learning (during summer 2022, guided by Prof. Zhiting Hu)
-                                                                   - Self-Supervised learning in Computer Vision (MIM and Comparison Learning, inspired Kaiming and Lecun's work)
-                                                                   - Conscious Modelling (Global Workspace Theory etc. , inspired by M.Blum and Bengio's work)
+                              <br />I built a Chinese stock market prediction large model during my SRT project, working with Penghang Wang and under Prof. Maosong Sun's guidence.
+                              <br />I built a 3D diffusion model using a self-defined transformer structure on generating Protein structure, before [this](https://arxiv.org/pdf/2209.15611.pdf) came out.
+                              <br />I also explored other areas such as: - image super resolution (during summer 2022, guided by Menghao Guo)
+                                                                   <br /> - PairWise Learning and Meta Learning (during summer 2022, guided by Prof. Zhiting Hu)
+                                                                   <br /> - Self-Supervised learning in Computer Vision (MIM and Comparison Learning, inspired Kaiming and Lecun's work)
+                                                                   <br /> - Conscious Modelling (Global Workspace Theory etc. , inspired by M.Blum and Bengio's work)
                                                                  
 * Junior year (2021-2022), Now I'm currently doing project's related to Multi-Agent Language Emergence and Communication at BIGAI and I'll be at MIT Brain & Cognition Department doing similar topic this summer.
 
