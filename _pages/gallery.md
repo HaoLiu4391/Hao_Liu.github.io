@@ -6,6 +6,8 @@ author_profile: true
 redirect_from: 
   - /gallery
 ---
+  
+{% include base_path %}
 
 <br />[Download My Full Gallery Here! Part1](../assets/part1.zip)
 <br />[Download My Full Gallery Here! Part2](../assets/part2.zip)
