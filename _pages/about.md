@@ -51,6 +51,12 @@ More Info
 ======
 My hobbies include Travelling, Mountain Hiking and Photography.  :)  
         
+Books that I'm currently reading
+======
+* The Emotion Machine, By Marvin Minsky
+* Descartes' Error: Emotion, Reason and the Human Brain, By AntonioDamasio
+* Letters Written During a Short Residence in Sweden, Norway and Denmark, By Mary Wollstonecraft
+        
 Contact
 ======
 Email: hao_liu(at)mit.edu 
