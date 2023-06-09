@@ -44,7 +44,7 @@ Research & Learning Background
                                                                    <br /> - Self-Supervised learning in Computer Vision (MIM and Comparison Learning etc., inspired Kaiming and Lecun's work)
                                                                    <br /> - Conscious Modelling (Global Workspace Theory etc. , inspired by M.Blum and Bengio's work)
                                                                  
-* Junior year (2021-2022), <br />I built a Trade Network Prediction system using [Non-Parametric Transformer](https://github.com/OATML/Non-Parametric-Transformers), based on tabular data form and using a product-level dataset [BACI](http://cepii.fr/cepii/en/bdd_modele/bdd_modele_item.asp?id=37).
+* Junior year (2022-2023), <br />I built a Trade Network Prediction system using [Non-Parametric Transformer](https://github.com/OATML/Non-Parametric-Transformers), based on tabular data form and using a product-level dataset [BACI](http://cepii.fr/cepii/en/bdd_modele/bdd_modele_item.asp?id=37).
                            <br />Now I'm currently doing project's related to Multi-Agent Language Emergence and Communication at BIGAI and I'll be at MIT Brain & Cognition Department doing similar topic this summer.
 
 More Info 
