@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-[Download My CV here](../Hao_Liu.github.io/assets/CV.pdf)
+[Download My CV here](../assets/CV.pdf)
