@@ -10,7 +10,7 @@ redirect_from:
   - /about.html
 ---
 
-
+<br />
 This is the homepage of Hao Liu (刘好), a junior undergraduate from Tsinghua University, majoring computer science. This summer I'll be at MIT Brain & Cognition Department as a visiting student.
 
 The ONLY & ULTIMATE goal for my research is to understand how brain works and what is consciousness. My research interests cover a wide range of fields related to Artificial Intelligence and Deep Learning, including Computer Vision, Natural Language Processing, Reinforcement Learning. I'm also tring to explore more on Neuroscience and Psychology, including fields like Spiking Neural Networks, Consciousness Modelling and so on. Now I'm focusing on Multi-Agent Reinforcement Learning with (Natural Language) Communicaiton.
