@@ -11,11 +11,29 @@ redirect_from:
 ---
 
 
-This is the homepage of Hao Liu (刘好), a junior undergraduate from Tsinghua University, majoring computer science. The ONLY & ULTIMATE goal for my research is to understand how brain works and what is consciousness. My research interests cover a wide range of fields related to Artificial Intelligence and Deep Learning, including Computer Vision, Natural Language Processing, Reinforcement Learning. I'm also tring to explore more on Neuroscience and Psychology, including fields like Spiking Neural Networks, Consciousness Modeling and so on. Now I'm focusing on Multi-Agent Reinforcement Learning with (Natural Language) Communicaiton.
+This is the homepage of Hao Liu (刘好), a junior undergraduate from Tsinghua University, majoring computer science. This summer I'll be at MIT Brain & Cognition Department as a visiting student.
 
-I conduct scientific research from a humanistic perspective and through methods of simulation, driven only by curiosity.
+The ONLY & ULTIMATE goal for my research is to understand how brain works and what is consciousness. My research interests cover a wide range of fields related to Artificial Intelligence and Deep Learning, including Computer Vision, Natural Language Processing, Reinforcement Learning. I'm also tring to explore more on Neuroscience and Psychology, including fields like Spiking Neural Networks, Consciousness Modeling and so on. Now I'm focusing on Multi-Agent Reinforcement Learning with (Natural Language) Communicaiton.
+
+I conduct scientific research from a humanistic perspective and through methods of simulation, driven by curiosity.
 
 "惟此独立之精神，自由之思想，历千万祀，与天壤而同久，共三光而永光。"
+
+Education Background
+======
+
+2014-2020 Tianjin No.1 High School
+
+2020-2024 Tsinghua University
+
+Research & Learning Background
+======
+
+* During High School (2017-2020), I was supervised by Prof. Mingming Cheng and Shaoping Lu at NanKai University, learning about Computer Vision. I built a pollution image classification system using hand-designed features.
+
+* Invited High School Student at CHINA THEORY WEEK 2018 (CTW2018).
+
+* 
 
 A data-driven personal website
 ======
