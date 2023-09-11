@@ -15,7 +15,7 @@ This is the homepage of Hao Liu (刘好), a junior undergraduate from Tsinghua U
 
 The ONLY & ULTIMATE goal for my research is to understand how brain works and what is consciousness. My research interests cover a wide range of fields related to Artificial Intelligence and Deep Learning, including Computer Vision, Natural Language Processing, Reinforcement Learning. I'm also tring to explore more on Neuroscience and Psychology, including fields like Spiking Neural Networks, Consciousness Modelling and so on. Now I'm focusing on Multi-Agent Reinforcement Learning with (Natural Language) Communicaiton.
 
-Currently, my interests shift to research from a neuroscience and mathematical perspective. Now i'm learning biological nerual network modeling, Category theory for machine learning and Evolutionary learning. 
+Currently, my interests shift to research from a neuroscience and mathematical perspective. Now i'm learning biological nerual network modeling, Category theory for machine learning and Evolutionary learning. (2023.9.11)
 
 I conduct scientific research from a humanistic perspective and through methods of simulation, driven by curiosity.
 
