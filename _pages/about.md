@@ -43,7 +43,7 @@ Research & Learning Background
                               <br />I also explored other areas such as: 
                                                                    <br />- image super resolution (during summer 2022, guided by Menghao Guo)
                                                                    <br /> - PairWise Learning and Meta Learning (during summer 2022, guided by Prof. Zhiting Hu)
-                                                                   <br /> - Self-Supervised learning in Computer Vision (MIM and Comparison Learning etc., inspired Kaiming and Lecun's work)
+                                                                   <br /> - Self-Supervised learning in Computer Vision (MIM and Comparison Learning etc., inspired by Kaiming and Lecun's work)
                                                                    <br /> - Conscious Modelling (Global Workspace Theory etc. , inspired by M.Blum and Bengio's work)
                                                                  
 * Junior year (2022-2023), <br />I built a Trade Network Prediction system using [Non-Parametric Transformer](https://github.com/OATML/Non-Parametric-Transformers) with Qingchen Liu, based on tabular data form and using a product-level dataset [BACI](http://cepii.fr/cepii/en/bdd_modele/bdd_modele_item.asp?id=37).
