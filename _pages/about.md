@@ -15,6 +15,8 @@ This is the homepage of Hao Liu (刘好), a junior undergraduate from Tsinghua U
 
 The ONLY & ULTIMATE goal for my research is to understand how brain works and what is consciousness. My research interests cover a wide range of fields related to Artificial Intelligence and Deep Learning, including Computer Vision, Natural Language Processing, Reinforcement Learning. I'm also tring to explore more on Neuroscience and Psychology, including fields like Spiking Neural Networks, Consciousness Modelling and so on. Now I'm focusing on Multi-Agent Reinforcement Learning with (Natural Language) Communicaiton.
 
+Currently, my interests shift to research from a neuroscience and mathematical perspective. Now i'm learning biological nerual network modeling, Category theory for machine learning and Evolutionary learning. 
+
 I conduct scientific research from a humanistic perspective and through methods of simulation, driven by curiosity.
 
 "惟此独立之精神，自由之思想，历千万祀，与天壤而同久，共三光而永光。"
@@ -45,17 +47,24 @@ Research & Learning Background
                                                                    <br /> - Conscious Modelling (Global Workspace Theory etc. , inspired by M.Blum and Bengio's work)
                                                                  
 * Junior year (2022-2023), <br />I built a Trade Network Prediction system using [Non-Parametric Transformer](https://github.com/OATML/Non-Parametric-Transformers) with Qingchen Liu, based on tabular data form and using a product-level dataset [BACI](http://cepii.fr/cepii/en/bdd_modele/bdd_modele_item.asp?id=37).
-                           <br />Now I'm currently doing project's related to Multi-Agent Language Emergence and Communication at BIGAI and I'll be at MIT Brain & Cognition Department doing similar topic this summer.
+                           <br />Now I'm currently at MIT Brain & Cognition Department, in Joshua Tenenbaum's group, doing project's related to Multi-Agent Language Communication and the Theory Of Mind(TOM), supervised by Postdoc Tianmin Shu.
+                           <br />I'll be back at BIGAI this autumn for projects about multiagent learning in social environment, RL and evolution learning.
 
 More Info 
 ======
 My hobbies include Travelling, Mountain Hiking and Photography.  :)  
         
-Books that I'm currently reading
+Books that I’ve read, currently reading and about to read this year
 ======
 * The Emotion Machine, By Marvin Minsky
 * Descartes' Error: Emotion, Reason and the Human Brain, By AntonioDamasio
 * Letters Written During a Short Residence in Sweden, Norway and Denmark, By Mary Wollstonecraft
+* Discours préliminaire de l'Encyclopédie (启蒙运动的纲领：《百科全书》序言)
+* 《南渡北归》岳南 著
+* 《一百个人的十年》冯骥才 著
+* 《红太阳是怎样升起的——延安整风运动的来龙去脉》高华 著
+* The secrets of words, By Noam Chomsky & Andrea Moro
+* Brave new world, By Aldous Leonard Huxley
         
 Contact
 ======
