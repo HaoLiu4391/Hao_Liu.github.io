@@ -88,5 +88,5 @@ Books that I’ve read, currently reading and about to read this year
         
 Contact
 ======
-Email: hao_liu(at)mit.edu / hl4220@nyu.edu 
+Email: hao_liu(at)mit.edu / hl4220(at)nyu.edu 
 Wechat: Jeffery0101010101
