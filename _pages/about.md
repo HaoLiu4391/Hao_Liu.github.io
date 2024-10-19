@@ -15,7 +15,7 @@ This is the homepage of Hao Liu (刘好). Now I'm a graduate student at NYU psyc
 
 The goal for my research is to understand how brain works and what is consciousness. My research interests cover a wide range of fields related to Artificial Intelligence and Deep Learning, including Computer Vision, Natural Language Processing, Reinforcement Learning. I'm also tring to explore more on Neuroscience and Psychology, including fields like Thoery of Mind, Spiking Neural Networks, Attractor modelings, Consciousness Modelling and so on. Now I'm focusing on computational modeling for Complement Learning Systems in our memory.
 
-Currently, my interests shift to research from a neuroscience and mathematical perspective. Now i'm learning biological nerual network modeling, Category theory for machine learning and Evolutionary learning. (2023.9.11)
+Currently, my interests shift to research from a neuroscience and mathematical perspective. Now i'm learning biological nerual network modeling, Category theory for machine learning and Evolutionary learning. (2023.9.11)<br/>
 Now, my research interests are including: 1) Chaotic Theory for neuron modeling. (Including Fractal geometry related.)
                                           2) 
 
