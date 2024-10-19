@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Hao Liu (刘好)"
   avatar           : "profile1.png"
-  bio              : "Tsinghua University"
-  location         : "Beijing, China; Boston, USA(this summer)"
+  bio              : "New York University"
+  location         : "New York City, USA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "hao_liu@mit.edu"
+  email            : "hl4220@nyu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
