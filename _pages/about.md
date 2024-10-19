@@ -13,11 +13,11 @@ redirect_from:
 <br />
 This is the homepage of Hao Liu (刘好). Now I'm a graduate student at NYU psychology, working closely with Prof. [Sebastian Michelmann](https://as.nyu.edu/faculty/sebastian-michelmann.html) and Prof. [Noga Zaslavsky](https://www.nogsky.com/) on Memory and Learning. Formerly, I got my Bachelor of Computer Science from Tsinghua University, supervised by Prof. [Hang Su](https://www.suhangss.me/). I was also an exchange student at MIT, working in Prof. [Joshua Tenenbaum](https://web.mit.edu/cocosci/josh.html)'s group with Prof. [Tianmin Shu](https://www.tshu.io/).
 
-The goal for my research is to understand how brain works and what is consciousness. My research interests cover a wide range of fields related to Artificial Intelligence and Deep Learning, including Computer Vision, Natural Language Processing, Reinforcement Learning. I'm also tring to explore more on Neuroscience and Psychology, including fields like Thoery of Mind, Spiking Neural Networks, Attractor modelings, Consciousness Modelling and so on. Now I'm focusing on __computational modeling for Complement Learning Systems in our memory__.
+The goal for my research is to understand how brain works and what is consciousness. My research interests cover a wide range of fields related to Artificial Intelligence and Deep Learning, including Computer Vision, Natural Language Processing, Reinforcement Learning. I'm also tring to explore more on Neuroscience and Psychology, including topics like Theory of Mind, Spiking Neural Networks, Attractor modelings, Consciousness Modelling and so on. Now I'm focusing on __computational modeling for Complement Learning Systems in our memory__.
 
 Currently, my interests shift to research from a neuroscience and mathematical perspective. Now i'm learning biological nerual network modeling, Category theory for machine learning and Evolutionary learning. __(2023.9.11)__ <br/>
 Now, my research interests are including: 1) Chaotic Theory for neuron modeling. (Including Fractal geometry related.) <br/>
-                                          2) Using AI to solve High Dimension Sphere Packing Problem. (Related to How many attractors could we fit in a Hopfield Network?) 
+                                          2) Using AI to solve High Dimension Sphere Packing Problem. (Related to How many attractors could we fit in a Hopfield Network) 
                                           3) Continual learning / Lifelong learning __(2024.10.18)__ <br/>
 
 I conduct scientific research from a humanistic perspective and through methods of simulation, driven by curiosity.
