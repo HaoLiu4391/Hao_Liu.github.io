@@ -11,7 +11,7 @@ redirect_from:
 ---
 
 <br />
-This is the homepage of Hao Liu (刘好). Now I'm a graduate student at NYU psychology, working closely with Prof. [Sebastian Michelmann](https://as.nyu.edu/faculty/sebastian-michelmann.html) and Prof. [Noga Zaslavsky](https://www.nogsky.com/) on Memory and Learning. Formerly, I got my Bachelor of Computer Science from Tsinghua University, supervised by Prof. [Hang Su](https://www.suhangss.me/). I was also an exchange student at MIT, working in Prof. [Joshua Tenenbaum](https://web.mit.edu/cocosci/josh.html)'s group with Prof. [Tianmin Shu](https://www.tshu.io/).
+This is the homepage of Hao Liu (刘好). Now I'm a graduate student at NYU psychology, working closely with Prof. [Sebastian Michelmann](https://as.nyu.edu/faculty/sebastian-michelmann.html) and Prof. [Marcelo Mattar](https://as.nyu.edu/faculty/marcelo-mattar.html) on Memory and Learning. Formerly, I got my Bachelor of Computer Science from Tsinghua University, supervised by Prof. [Hang Su](https://www.suhangss.me/). I was also an exchange student at MIT, working in Prof. [Joshua Tenenbaum](https://web.mit.edu/cocosci/josh.html)'s group with Prof. [Tianmin Shu](https://www.tshu.io/).
 
 The goal for my research is to understand how brain works and what is consciousness. My research interests cover a wide range of fields related to Artificial Intelligence and Deep Learning, including Computer Vision, Natural Language Processing, Reinforcement Learning. I'm also tring to explore more on Neuroscience and Psychology, including topics like Theory of Mind, Spiking Neural Networks, Attractor modelings, Consciousness Modelling and so on. Now I'm focusing on __computational modeling for Complement Learning Systems in our memory__.
 
@@ -85,8 +85,11 @@ Books that I’ve read, currently reading and about to read this year
 * 《故国人民有所思：1949年后知识分子思想改造侧影》陈徒手 著
 * Active Inference: The Free Energy Principle in Mind, Brain, and Behavior, By Thomas Parr, Giovanni Pezzulo, Karl J. Friston
 * Respiración artificial, By Ricardo Piglia
+* What Are You Looking At?: 150 Years of Modern Art in the Blink of an Eye, By Will Gompertz
+* The Lost Salt Gift of Blood, By Alistair MacLeod
+* The Psychology of Invention in the Mathematical Field, By Jacques Hadamard
         
 Contact
 ======
-Email: hao_liu(at)mit.edu / hl4220(at)nyu.edu 
+Email: hl4220(at)nyu.edu 
 Wechat: Jeffery0101010101
