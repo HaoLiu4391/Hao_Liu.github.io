@@ -62,7 +62,7 @@ More Info
 ======
 My hobbies include Travelling, Mountain Hiking and Photography.  :)  
         
-Books that I’ve read, currently reading and about to read this year
+Books that I’ve read since 2024
 ======
 * The Emotion Machine, By Marvin Minsky
 * Descartes' Error: Emotion, Reason and the Human Brain, By AntonioDamasio
@@ -88,6 +88,15 @@ Books that I’ve read, currently reading and about to read this year
 * What Are You Looking At?: 150 Years of Modern Art in the Blink of an Eye, By Will Gompertz
 * The Lost Salt Gift of Blood, By Alistair MacLeod
 * The Psychology of Invention in the Mathematical Field, By Jacques Hadamard
+* 《聋哑时代》双雪涛 著
+* 《比山更高：自由攀登者的悲情与荣耀》宋明蔚 著
+* 《“读书的料”及其文化生产——当代农家子弟成长叙事研究》程猛 著
+* 《当代小说二十家》王德威 著
+* Eclaircissements, By Michel Serres and Bruno Latour
+* Exhalation, By Ted Chiang
+* 《重走——在公路、河流和驿道上寻找西南联大》杨潇 著
+* 《遍地风流》阿城 著
+* Brief history of the Paradox, By Roy Sorensen
         
 Contact
 ======
