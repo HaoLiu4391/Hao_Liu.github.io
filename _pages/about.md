@@ -11,14 +11,13 @@ redirect_from:
 ---
 
 <br />
-This is the homepage of Hao Liu (刘好). Now I'm a graduate student at NYU psychology, working closely with Prof. [Sebastian Michelmann](https://as.nyu.edu/faculty/sebastian-michelmann.html) and Prof. [Marcelo Mattar](https://as.nyu.edu/faculty/marcelo-mattar.html) on Memory and Learning. Formerly, I got my Bachelor of Computer Science from Tsinghua University, supervised by Prof. [Hang Su](https://www.suhangss.me/). I was also an exchange student at MIT, working in Prof. [Joshua Tenenbaum](https://web.mit.edu/cocosci/josh.html)'s group with Prof. [Tianmin Shu](https://www.tshu.io/).
+This is the homepage of Hao Liu (刘好). Now I'm a second year graduate student at NYU psychology, working closely with Prof. [Sebastian Michelmann](https://as.nyu.edu/faculty/sebastian-michelmann.html) and Prof. [Marcelo Mattar](https://as.nyu.edu/faculty/marcelo-mattar.html) on Memory and Learning. Formerly, I got my Bachelor of Computer Science from Tsinghua University, supervised by Prof. [Hang Su](https://www.cs.tsinghua.edu.cn/csen/info/1313/4403.htm). I was also an exchange student at MIT, working in Prof. [Joshua Tenenbaum](https://web.mit.edu/cocosci/josh.html)'s group with Prof. [Tianmin Shu](https://www.tshu.io/).
 
-The goal for my research is to understand how brain works and what is consciousness. My research interests cover a wide range of fields related to Artificial Intelligence and Deep Learning, including Computer Vision, Natural Language Processing, Reinforcement Learning. I'm also tring to explore more on Neuroscience and Psychology, including topics like Theory of Mind, Spiking Neural Networks, Attractor modelings, Consciousness Modelling and so on. Now I'm focusing on __computational modeling for Complement Learning Systems in our memory__.
+The goal for my research is to understand how brain works and what is consciousness. My research interests cover a wide range of fields related to Artificial Intelligence and Deep Learning, including Computer Vision, Natural Language Processing, Reinforcement Learning. I'm also tring to explore more on Neuroscience and Psychology, including topics like Theory of Mind, Spiking Neural Networks, Chaotic Attractors, Consciousness Modelling, Multiagent & Game Theory and so on. I'm a big fan of research in Cellular Automata. 
 
-Currently, my interests shift to research from a neuroscience and mathematical perspective. Now i'm learning biological nerual network modeling, Category theory for machine learning and Evolutionary learning. __(2023.9.11)__ <br/>
-Now, my research interests are including: 1) Chaotic Theory for neuron modeling. (Including Fractal geometry related.) <br/>
-                                          2) Using AI to solve High Dimension Sphere Packing Problem. (Related to How many attractors could we fit in a Hopfield Network) 
-                                          3) Continual learning / Lifelong learning __(2024.10.18)__ <br/>
+I read and learn math and philosophy as well. Expecially for topics like Algebraic Topology, Fractal Geometry, Philosophy of Logic and Philosophy of Mind (Perception & Consciousness)
+
+Now I'm focusing on __computational modeling for distributed memory system__.
 
 I conduct scientific research from a humanistic perspective and through methods of simulation, driven by curiosity.
 
@@ -52,15 +51,18 @@ Research & Learning Background
                                                                    <br /> - Conscious Modelling (Global Workspace Theory etc. , inspired by M.Blum and Bengio's work)
                                                                  
 * Junior year (2022-2023), <br />I built a Trade Network Prediction system using [Non-Parametric Transformer](https://github.com/OATML/Non-Parametric-Transformers) with Qingchen Liu, based on tabular data form and using a product-level dataset [BACI](http://cepii.fr/cepii/en/bdd_modele/bdd_modele_item.asp?id=37).
-                           <br />At MIT Brain & Cognition Department, in Joshua Tenenbaum's group, doing project's related to Multi-Agent Language Communication and the Theory Of Mind(TOM), supervised by Postdoc Tianmin Shu.
+                           <br />At MIT Brain & Cognition Department, doing project's related to Multi-Agent Language Communication and the Theory Of Mind(TOM), supervised by Postdoc Tianmin Shu.
                            <br />At BIGAI, for projects about multiagent learning in social environment, RL and evolution learning. We proposed an Adaptive Environment with Social Structures for Multi-Agent Decision-Making. Now this paper is published at [NIPS 2024 benchmark track](https://neurips.cc/virtual/2024/poster/97511)
 
 * Senior year (2023-2024), <br /> I did multiagent reinforcement learning with emergency communication with Prof. Hang Su, We want to generalize beyond Traditional Referential Game setting, using a multiagent interactive, cooperative environment setting.
                            <br /> I used LLM for anomaly detection for malicious transaction in BlockChain, I did this during I was a intern at [Sec3](https://www.sec3.dev/), using Solana Dataset. This research is guided by Prof. [Wenbo Guo](https://henrygwb.github.io/) and Prof. [Xingyu Xing](http://xinyuxing.org/). Now the paper is out on arxiv: BlockFound: [Customized blockchain foundation model for anomaly detection](https://arxiv.org/abs/2410.04039).
 
+* Master years (2024-2026), <br /> I used diffusion model and diffusion inversion as a generative approach to model how information in stored and compressed in our memory system. Specificlly, the encoding and reinstatement process from neo-crotex to hippocampus. I did behaviour correlation of the model ([mnemonic similarity task](https://pmc.ncbi.nlm.nih.gov/articles/PMC6991464/)), as well as neuron correlation of the model([Natural Scenes Dataset](https://naturalscenesdataset.org/)).
+                            <br /> I also tried to explore Heretical reinforcement learning and meta reinforcement learning for task representations and goal compositionality in sparce-rewarded environment.
+
 More Info 
 ======
-My hobbies include Travelling, Mountain Hiking and Photography.  :)  
+My hobbies include Travelling, Mountain Hiking, Photography, Reading books and Playing minecraft.  :)  
         
 Books that I’ve read since 2024
 ======
@@ -97,6 +99,16 @@ Books that I’ve read since 2024
 * 《重走——在公路、河流和驿道上寻找西南联大》杨潇 著
 * 《遍地风流》阿城 著
 * Brief history of the Paradox, By Roy Sorensen
+* Philosophy: A Historical Survey with Essential Readings, By Samuel Enoch Stumpf, James Fieser
+* 《外面是夏天》金爱灿 著
+* The Phenomenological Mind, By Shaun Gallagher
+* 《我的二本学生》黄灯 著
+* 《“读书的料”及其文化生产：当代农家子弟成长叙事研究》程猛 著
+* 《平原上的摩西》双雪涛 著
+* The Revelations，By Erik Hoel
+* Nous n'avons jamais été modernes Essai d'anthropologie symétrique, By Bruno Latour
+* The River of Consciousness, By Oliver Sacks
+
         
 Contact
 ======
